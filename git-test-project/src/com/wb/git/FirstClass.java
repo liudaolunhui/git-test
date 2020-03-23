@@ -9,5 +9,9 @@ public class FirstClass {
         System.out.println("第一个git 的test");
         System.out.println("第一个git 的test");
         System.out.println("fffff");
+
+        System.out.println("克隆");
     }
+
+
 }
