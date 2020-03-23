@@ -11,6 +11,7 @@ public class FirstClass {
         System.out.println("fffff");
 
         System.out.println("克隆");
+        System.out.println("克隆后的修改");
     }
 
 
